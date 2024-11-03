@@ -3,7 +3,7 @@ import React from 'react';
 function Signup() {
     return ( 
 
-        <div className='container p-5 mb-5'>
+        <div className='container p-5  text-center'>
             <div className='row'>
                 <div className='col-4 mb-2'>
                   <img src='media\images\signup.png' style={{width:"120%"}}/>
